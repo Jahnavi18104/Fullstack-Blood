@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "node app.js"
+    "dev": "node APP.jsx"
   },
   "dependencies": {
     "axios": "^1.7.7"
